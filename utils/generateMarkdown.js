@@ -171,13 +171,13 @@ function generateMarkdown(data) {
     \n${licenseBadge}
     \n${licenseLink}
 
-    \n## Guidelines/Contributing 
+    \n## Contributers
     \n${data.guidelines}
 
     \n## Tests
     \n${data.tests}
 
-    \n## Questions? 
+    \n## Questions
 
     \nIf you have questions, you can reach me through my email or github:
     \n${data.email}

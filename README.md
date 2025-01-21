@@ -3,7 +3,9 @@
 
 
 ## Description
-    This project if a command-line application which builds a README.md file with user input for each section. The user gets prompted by the terminal for each question and once they input all of their information, a README.md will be generated for them. It helps streamline the tedious process of writing a README.md.
+    This project if a command-line application which builds a README.md file with user input for each section. 
+    The user gets prompted by the terminal for each question and once they input all of their information, 
+    a README.md will be generated for them. It helps streamline the tedious process of writing a README.md.
 
 ## Table of Contents  
 - [Installation](#installation)  
@@ -50,6 +52,7 @@ To use this application, follow the steps below.
 3. Open the README.md file:
     Now, you should have a generated README.md file which you can copy and add to your project. You may also alter it however you like!
 
+Here is a video to help you navigate the app: https://drive.google.com/file/d/1PI5Zp4xtIjWJ_0iGrgd507gepdR0YuH7/view?usp=drive_link
 
     
 ## Credits
